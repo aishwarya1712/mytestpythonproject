@@ -1,0 +1,7 @@
+Enter
+pipenv shell
+
+Exit virtual environment
+exit
+
+Initially, running "pip freeze" will return empty because we don't have any python packages installed 
